@@ -77,6 +77,8 @@ Have a project in mind or want to collaborate?
 - Mylano — [GitHub](https://github.com/Mylaano)
 - Anrazzi — [GitHub](https://github.com/SebMZI)
 
+Or join our [Discord](https://discord.gg/PruBfZuskM)
+
 ---
 
 <div align="center">
