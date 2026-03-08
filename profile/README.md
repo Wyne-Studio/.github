@@ -1,4 +1,4 @@
-![1772923455526](../image/README/1772923455526.png)
+![1772923455526](../image/README/1772923455526.webp)
 
 # Wyne Studio
 
@@ -46,8 +46,8 @@ Each resource is documented on our [documentation](https://docs.wynestudio.com)
 
 | Project               | Description                         | Stack      |
 | --------------------- | ----------------------------------- | ---------- |
-| wyne-notify-hermes    | Notification System for Fivem       | Lua /JS    |
-| wyne-notify-odin      | Notification System for Fivem       | Lua / JS   |
+| wyne-notify-hermes    | Notification System for Fivem       | Lua, React |
+| wyne-notify-odin      | Notification System for Fivem       | Lua, JS    |
 | wyne-boattrailer      | Boat Trailer for Fivem              | Lua        |
 | wyne-weaponsonback    | Weapons visible on player's back    | Lua        |
 | wyne-peds             | Pegs for bicycles                   | Lua        |
@@ -55,7 +55,7 @@ Each resource is documented on our [documentation](https://docs.wynestudio.com)
 | wyne-plumber          | Plumber job for Fivem               | Lua        |
 | wyne-playerdisconnect | Create a ped when player disconnect | Lua        |
 | wyne-adminmenu        | Advanced admin menu                 | Lua        |
-| wyne-kiosk            | Kiosk screen for Fivem              | Lua/ React |
+| wyne-kiosk            | Kiosk screen for Fivem              | Lua, React |
 | wyne-bliptool         | Advanced blip tool for Fivem        | Lua        |
 | wyne-electrician      | Electrician job for Fivem           | Lua        |
 | wyne-fishing          | Fishing activity for Fivem          | Lua        |
@@ -65,6 +65,8 @@ Each resource is documented on our [documentation](https://docs.wynestudio.com)
 | wyne-dockworker       | Dockworker job for Fivem            | Lua        |
 | wyne-hunting          | Hunting for Fivem                   | Lua        |
 | wyne-yard             | Yard job for Fivem                  | Lua        |
+| wyne-vendingmachines  | Vending Machines for Fivem          | Lua        |
+| wyne-drugsdealing     | Drugs Dealing for Fivem             | Lua        |
 
 ---
 
